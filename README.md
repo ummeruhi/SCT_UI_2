@@ -18,7 +18,8 @@ The objective of this task was to design a **mobile news application interface**
 
 ---
 
-# Live Demo : https://ummeruhi.github.io/SCT_UI_2/
+# Live Demo : 
+https://ummeruhi.github.io/SCT_UI_2/
 # ✨ Features
 
 - 🌞 Light Mode UI
